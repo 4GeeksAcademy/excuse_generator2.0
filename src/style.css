@@ -15,6 +15,8 @@ button:hover {
 
 img {
   border-radius: 10px;
+  width: 900px;
+  height: 450px;
 }
 #text {
   border-style: solid;

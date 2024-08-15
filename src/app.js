@@ -2,9 +2,6 @@
 import "bootstrap";
 import "./style.css";
 
-import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
-
 window.onload = function generator() {
   let who = ["The dog ", "My grandma ", "The mailman ", "My bird ", "My cat "];
   let action = ["ate ", "peed ", "crushed ", "broke ", "burned "];
